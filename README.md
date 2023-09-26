@@ -37,7 +37,7 @@ To install README-GEN, follow these steps:
 - The following screenshots show the application final output in GitHub ![README-GEN](</Develop/utils/img/README-GEN(Result1).png>)
 - The following screenshots show the application final output in GitHub ![README-GEN](</Develop/utils/img/README-GEN(result%202).png>)
 - The following screenshots show the application final output in GitHub (links in page) ![README-GEN](</Develop/utils/img/README-GEN(Links).png>)
-- Link of Screenrecorder [Screencastify](https://drive.google.com/file/d/1bpzpnV2vzGrXBxZkQ8J29kM5vi70C5Ft/view)
+- Link of Screenrecorder ![Screencastify](https://drive.google.com/file/d/1bpzpnV2vzGrXBxZkQ8J29kM5vi70C5Ft/view)
 
 ## Credits
 
