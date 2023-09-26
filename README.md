@@ -30,12 +30,17 @@ To install README-GEN, follow these steps:
 2. Open a terminal window and navigate to the project directory.
 3. Run the command `npm install` to install the required dependencies.
 
+## Links
+
+- This is the link of my [GitHub repository](https://github.com/Kirill777-web/Weather-Whisper)
+- The following screenshots show the application final output in VS Code Terminal [README-GEN](/Develop/utils/img/README-GEN.png)
+- Link of Screenrecorder [Screencastify](https://app.screencastify.com/)
+
 ## Credits
 
 - Link of UNB course section NodeJs [UNB](https://courses.bootcampspot.com/)
 - Link of MDN documentation [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Node.js?utm_source=wordpress%20blog&utm_medium=content%20link&utm_campaign=promote%20mdn)
 - Link of NPM package inquirer [NPM](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- Link of Screenrecorder [Screencastify](https://app.screencastify.com/)
 
 ## License
 
